@@ -1,4 +1,4 @@
-# Storytelling-por-meio-de-Visualizacao-de-Dados
+# Storytelling por meio de Visualizacao de Dados
 
 ![alt text](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fbrentdykes%2Ffiles%2F2016%2F03%2Fnew_data_storytelling_slices.jpg)
 
